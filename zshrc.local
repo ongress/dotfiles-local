@@ -1,0 +1,27 @@
+# Add direnv
+eval "$(direnv hook zsh)"
+#export PATH=$(rbenv root)/shims:$(rbenv root)/bin:$PATH
+
+# Tmuxinator
+# source ~/.bin/tmuxinator.zsh
+#
+#export HOMEBREW_GITHUB_API_TOKEN=d66fd434b2c1134b08d8e32e38694b2d7ee021b4
+#
+export BITTREX_API_KEY=18661e0a84e948ed9cb8173087bbc1ce
+export BITTREX_API_SECRET=3fbbf1d067ce49a7b3b0465f31ca3fe6
+
+export SLACK_API_TOKEN="xoxp-129989658578-163929942549-360670912694-46a2b2ef0ed55ed7de4a7c873fb8a584"
+export SLACK_TOKEN="xoxp-129989658578-163929942549-360670912694-46a2b2ef0ed55ed7de4a7c873fb8a584"
+
+export ARC_BUCKET="paperreplace"
+export ARC_ASSET_HOST="http://minio.paperreplace.n1.ongress.com"
+export MINIO_ACCESS_KEY="bulleric"
+export MINIO_ACCESS_SECRET="xenonse1478"
+export MINIO_HOST="minio.paperreplace.n1.ongress.com"
+export MINIO_SCHEMA="http://"
+export MINIO_PORT=80
+export MINIO_REGION="local"
+
+
+. $HOME/.asdf/asdf.sh
+. $HOME/.asdf/completions/asdf.bash
