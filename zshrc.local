@@ -2,6 +2,8 @@ export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 # Add direnv
 eval "$(direnv hook zsh)"
+
+alias code="/Applications/Visual\ Studio\ Code\ -\ Insiders.app/Contents/Resources/app/bin/code"
 #export PATH=$(rbenv root)/shims:$(rbenv root)/bin:$PATH
 
 # Tmuxinator
