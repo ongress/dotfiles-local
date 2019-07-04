@@ -20,5 +20,13 @@ Install Rust
 
     brew install rust
 
+Setup
+-----
+
+Update dotfiles symlinks with rcup:
+
+    rcup
+
+
 
 

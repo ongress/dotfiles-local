@@ -1,16 +1,5 @@
-alias lightfin='cd ~/rails/lightfin'
-alias ontasty='cd ~/rails/ontasty'
-alias www.ontasty='cd ~/rails/ontasty-www'
-alias wordpress='cd ~/www/wordpress/web'
-alias rodein='cd ~/rails/rodein-page'
-alias innopost='cd ~/rails/innopost'
-alias gs-ingredients='cd ~/rails/gs-ingredients'
 alias gs-planner='cd ~/dev/projects/gs-planner'
-alias canvas='cd ~/phoenix/canvas.curryboard.com'
-alias extradebot='cd ~/dev/projects/extradebot'
 alias screendroid='cd ~/dev/projects/screendroid'
-alias paper_replace='cd ~/dev/projects/paper_replace'
 
 alias vi=vim
-
-alias dokku='$HOME/.dokku/contrib/dokku_client.sh'
+alias dokku='bash $HOME/.dokku/contrib/dokku_client.sh'
