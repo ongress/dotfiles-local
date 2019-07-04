@@ -3,4 +3,5 @@ Plug 'mxw/vim-jsx'
 Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
 Plug 'altercation/vim-colors-solarized'
 Plug 'mhinz/vim-mix-format'
+Plug 'morhetz/gruvbox'
 " UnPlug 'ale'
