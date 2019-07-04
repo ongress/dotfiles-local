@@ -1,7 +1,7 @@
 ongress dotfiles
 ===================
 
-![prompt](http://images.ongress.com/ongress-dotfiles-prompt.png)
+![prompt](https://ongress.com/static/ongress-logo-e5a376f0193996f16165f083dd882839.jpeg)
 
 Requirements
 ------------
@@ -16,6 +16,7 @@ Install fonts used by alacritty and vim:
     brew cask install font-fira-code
 
 Install Rust
+
     brew install rust
 
 
