@@ -15,7 +15,8 @@ Install fonts used by alacritty and vim:
     brew tap homebrew/cask-fonts
     brew cask install font-fira-code
 
-
+Install Rust
+    brew install rust
 
 
 
